@@ -68,7 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				74E289BD2A7C21FC003072EC /* main.swift */,
-				74E289CE2A7C22DA003072EC /* Chapter 1 */,
+				74E289CE2A7C22DA003072EC /* ConstantsAndVariables */,
 				74E289CF2A7C22F9003072EC /* Chapter 2 */,
 				74E289D02A7C22FF003072EC /* Chapter 3 */,
 				74E289D12A7C2307003072EC /* Chapter 4 */,
@@ -77,12 +77,12 @@
 			path = CorysChallenge2;
 			sourceTree = "<group>";
 		};
-		74E289CE2A7C22DA003072EC /* Chapter 1 */ = {
+		74E289CE2A7C22DA003072EC /* ConstantsAndVariables */ = {
 			isa = PBXGroup;
 			children = (
 				74E289C42A7C220C003072EC /* Chapter1.swift */,
 			);
-			path = "Chapter 1";
+			path = ConstantsAndVariables;
 			sourceTree = "<group>";
 		};
 		74E289CF2A7C22F9003072EC /* Chapter 2 */ = {
