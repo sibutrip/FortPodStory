@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74AB2D542AE30672001A3BCD /* ConditionalsExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB2D532AE30672001A3BCD /* ConditionalsExamples.swift */; };
 		74E289BE2A7C21FC003072EC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289BD2A7C21FC003072EC /* main.swift */; };
 		74E289C52A7C220C003072EC /* Chapter1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289C42A7C220C003072EC /* Chapter1.swift */; };
 		74E289C72A7C2211003072EC /* Chapter2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289C62A7C2211003072EC /* Chapter2.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		74AB2D532AE30672001A3BCD /* ConditionalsExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalsExamples.swift; sourceTree = "<group>"; };
 		74E289BA2A7C21FC003072EC /* CorysChallenge2PM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CorysChallenge2PM; sourceTree = BUILT_PRODUCTS_DIR; };
 		74E289BD2A7C21FC003072EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		74E289C42A7C220C003072EC /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1.swift; sourceTree = "<group>"; };
@@ -69,7 +71,7 @@
 			children = (
 				74E289BD2A7C21FC003072EC /* main.swift */,
 				74E289CE2A7C22DA003072EC /* ConstantsAndVariables */,
-				74E289CF2A7C22F9003072EC /* Chapter 2 */,
+				74E289CF2A7C22F9003072EC /* Conditionals */,
 				74E289D02A7C22FF003072EC /* Chapter 3 */,
 				74E289D12A7C2307003072EC /* Chapter 4 */,
 				74E289D22A7C230C003072EC /* Chapter 5 */,
@@ -85,12 +87,13 @@
 			path = ConstantsAndVariables;
 			sourceTree = "<group>";
 		};
-		74E289CF2A7C22F9003072EC /* Chapter 2 */ = {
+		74E289CF2A7C22F9003072EC /* Conditionals */ = {
 			isa = PBXGroup;
 			children = (
 				74E289C62A7C2211003072EC /* Chapter2.swift */,
+				74AB2D532AE30672001A3BCD /* ConditionalsExamples.swift */,
 			);
-			path = "Chapter 2";
+			path = Conditionals;
 			sourceTree = "<group>";
 		};
 		74E289D02A7C22FF003072EC /* Chapter 3 */ = {
@@ -180,6 +183,7 @@
 				74E289C52A7C220C003072EC /* Chapter1.swift in Sources */,
 				74E289C72A7C2211003072EC /* Chapter2.swift in Sources */,
 				74E289C92A7C221D003072EC /* Chapter3.swift in Sources */,
+				74AB2D542AE30672001A3BCD /* ConditionalsExamples.swift in Sources */,
 				74E289CD2A7C222C003072EC /* Chapter5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
