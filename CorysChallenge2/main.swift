@@ -12,7 +12,6 @@ let protagonistName = "Cory"
 var protagonistTitle = "Coding mentor"
 var didCureWork = false
 
-
 func readStory() {
     chapterOne()
     chapterTwo()
@@ -22,6 +21,23 @@ func readStory() {
 }
 
 readStory()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
