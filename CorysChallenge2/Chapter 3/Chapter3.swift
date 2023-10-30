@@ -11,6 +11,8 @@ func chapterThree() {
     // i want to find gavin to steal his magic stick. because of of this
     // i go to gavin's workplace
     
+    let location = ["Skating Rink", "Q-line", "Congregation", "Academy"]
+    
     func findGavin(at location: String) -> Bool {
         // if gavin's at the location, return true
         // otherwise return false
@@ -21,10 +23,11 @@ func chapterThree() {
             print("cory didnt find gavin at \(location)")
             return false
         }
-        
     }
-    findGavin(at: "Skating Rink")
-    findGavin(at: "Q-line")
-    findGavin(at: "Congregation")
-    findGavin(at: "Academy")
+    //TODO: use loops to do this better
+    //Core Coding Concept: DRY Priciple (Don't repeat yourself)
+    findGavin(at: location[0])
+    findGavin(at: location[1])
+    findGavin(at: location[2])
+    findGavin(at: location[3])
 }
