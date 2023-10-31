@@ -16,12 +16,12 @@ func readStory() {
 //    chapterOne()
 //    chapterTwo()
 //    chapterThree()
-    chapterFour()
-//    chapterFive()
+//    chapterFour()
+    chapterFive()
 }
 
 readStory()
-//arraysExamples()
+//loopExamples()
 
 
 
