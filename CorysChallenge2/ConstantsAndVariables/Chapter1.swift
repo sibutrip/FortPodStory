@@ -5,7 +5,6 @@
 
 import Foundation
 
-
 func chapterOne() {
     // cory ran into gavin
     print("a \(antagonistTitle) named \(antagonistName) was walking down the street and ran into a \(protagonistTitle) named \(protagonistName)")

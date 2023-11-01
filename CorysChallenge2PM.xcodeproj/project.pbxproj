@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		743227D52AF2D8FB0018F634 /* Chapter6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743227D42AF2D8FB0018F634 /* Chapter6.swift */; };
+		746BFB3B2AF185120057C164 /* LoopsExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746BFB3A2AF185120057C164 /* LoopsExamples.swift */; };
 		748752AC2AF032DF00C4B3DA /* ArraysExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748752AB2AF032DF00C4B3DA /* ArraysExamples.swift */; };
 		74AB2D542AE30672001A3BCD /* ConditionalsExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB2D532AE30672001A3BCD /* ConditionalsExamples.swift */; };
 		74E289BE2A7C21FC003072EC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289BD2A7C21FC003072EC /* main.swift */; };
@@ -31,6 +33,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		743227D42AF2D8FB0018F634 /* Chapter6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter6.swift; sourceTree = "<group>"; };
+		746BFB3A2AF185120057C164 /* LoopsExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopsExamples.swift; sourceTree = "<group>"; };
 		748752AB2AF032DF00C4B3DA /* ArraysExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysExamples.swift; sourceTree = "<group>"; };
 		74AB2D532AE30672001A3BCD /* ConditionalsExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalsExamples.swift; sourceTree = "<group>"; };
 		74E289BA2A7C21FC003072EC /* CorysChallenge2PM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CorysChallenge2PM; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -54,6 +58,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		743227D62AF2D8FF0018F634 /* Chapter6 */ = {
+			isa = PBXGroup;
+			children = (
+				743227D42AF2D8FB0018F634 /* Chapter6.swift */,
+			);
+			path = Chapter6;
+			sourceTree = "<group>";
+		};
 		74E289B12A7C21FC003072EC = {
 			isa = PBXGroup;
 			children = (
@@ -79,6 +91,7 @@
 				74E289D02A7C22FF003072EC /* Chapter 3 */,
 				74E289D12A7C2307003072EC /* Chapter 4 */,
 				74E289D22A7C230C003072EC /* Chapter 5 */,
+				743227D62AF2D8FF0018F634 /* Chapter6 */,
 			);
 			path = CorysChallenge2;
 			sourceTree = "<group>";
@@ -122,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				74E289CC2A7C222C003072EC /* Chapter5.swift */,
+				746BFB3A2AF185120057C164 /* LoopsExamples.swift */,
 			);
 			path = "Chapter 5";
 			sourceTree = "<group>";
@@ -188,10 +202,12 @@
 				74E289BE2A7C21FC003072EC /* main.swift in Sources */,
 				74E289CB2A7C2221003072EC /* Chapter4.swift in Sources */,
 				74ECF2232AEAF338008B407E /* FunctionsExamples.swift in Sources */,
+				746BFB3B2AF185120057C164 /* LoopsExamples.swift in Sources */,
 				74E289C52A7C220C003072EC /* Chapter1.swift in Sources */,
 				74E289C72A7C2211003072EC /* Chapter2.swift in Sources */,
 				74E289C92A7C221D003072EC /* Chapter3.swift in Sources */,
 				74AB2D542AE30672001A3BCD /* ConditionalsExamples.swift in Sources */,
+				743227D52AF2D8FB0018F634 /* Chapter6.swift in Sources */,
 				74E289CD2A7C222C003072EC /* Chapter5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
