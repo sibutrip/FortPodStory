@@ -64,9 +64,16 @@
 			isa = PBXGroup;
 			children = (
 				743227D42AF2D8FB0018F634 /* Chapter6.swift */,
-				743227E02AF42A8C0018F634 /* Enums.swift */,
 			);
 			path = Chapter6;
+			sourceTree = "<group>";
+		};
+		743227E22AF43D750018F634 /* Chaper7 */ = {
+			isa = PBXGroup;
+			children = (
+				743227E02AF42A8C0018F634 /* Enums.swift */,
+			);
+			path = Chaper7;
 			sourceTree = "<group>";
 		};
 		74E289B12A7C21FC003072EC = {
@@ -95,6 +102,7 @@
 				74E289D12A7C2307003072EC /* Chapter 4 */,
 				74E289D22A7C230C003072EC /* Chapter 5 */,
 				743227D62AF2D8FF0018F634 /* Chapter6 */,
+				743227E22AF43D750018F634 /* Chaper7 */,
 			);
 			path = CorysChallenge2;
 			sourceTree = "<group>";
