@@ -13,15 +13,16 @@ var protagonistTitle = "Coding mentor"
 var didCureWork = false
 
 func readStory() {
-    chapterOne()
-    chapterTwo()
-    chapterThree()
-    chapterFour()
-    chapterFive()
+//    chapterOne()
+//    chapterTwo()
+//    chapterThree()
+//    chapterFour()
+//    chapterFive()
+//    chapter6()
+    chapterSeven()
 }
 
-//readStory()
-//loopExamples()
+readStory()
 
 
 
