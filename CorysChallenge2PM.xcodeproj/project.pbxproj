@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7418EE5F2AF9849C00410354 /* Chapter8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7418EE5E2AF9849C00410354 /* Chapter8.swift */; };
 		743227D52AF2D8FB0018F634 /* Chapter6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743227D42AF2D8FB0018F634 /* Chapter6.swift */; };
 		743227E12AF42A8C0018F634 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743227E02AF42A8C0018F634 /* Enums.swift */; };
 		746BFB3B2AF185120057C164 /* LoopsExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746BFB3A2AF185120057C164 /* LoopsExamples.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7418EE5E2AF9849C00410354 /* Chapter8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter8.swift; sourceTree = "<group>"; };
 		743227D42AF2D8FB0018F634 /* Chapter6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter6.swift; sourceTree = "<group>"; };
 		743227E02AF42A8C0018F634 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		746BFB3A2AF185120057C164 /* LoopsExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopsExamples.swift; sourceTree = "<group>"; };
@@ -60,6 +62,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7418EE602AF984C600410354 /* Chapter8 */ = {
+			isa = PBXGroup;
+			children = (
+				7418EE5E2AF9849C00410354 /* Chapter8.swift */,
+			);
+			path = Chapter8;
+			sourceTree = "<group>";
+		};
 		743227D62AF2D8FF0018F634 /* Chapter6 */ = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +113,7 @@
 				74E289D22A7C230C003072EC /* Chapter 5 */,
 				743227D62AF2D8FF0018F634 /* Chapter6 */,
 				743227E22AF43D750018F634 /* Chaper7 */,
+				7418EE602AF984C600410354 /* Chapter8 */,
 			);
 			path = CorysChallenge2;
 			sourceTree = "<group>";
@@ -218,6 +229,7 @@
 				74E289C72A7C2211003072EC /* Chapter2.swift in Sources */,
 				74E289C92A7C221D003072EC /* Chapter3.swift in Sources */,
 				74AB2D542AE30672001A3BCD /* ConditionalsExamples.swift in Sources */,
+				7418EE5F2AF9849C00410354 /* Chapter8.swift in Sources */,
 				743227D52AF2D8FB0018F634 /* Chapter6.swift in Sources */,
 				743227E12AF42A8C0018F634 /* Enums.swift in Sources */,
 				74E289CD2A7C222C003072EC /* Chapter5.swift in Sources */,
